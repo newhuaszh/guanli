@@ -20,3 +20,6 @@ C:\Users\Administrator\Desktop\ReadDPR_Winform\ReadDPR_Winform\obj\Debug\ReadDPR
 C:\Users\Administrator\Desktop\ReadDPR_Winform\ReadDPR_Winform\obj\Debug\ReadDPR_Winform.csproj.GenerateResource.Cache
 C:\Users\Administrator\Desktop\ReadDPR_Winform\ReadDPR_Winform\obj\Debug\ReadDPR_Winform.exe
 C:\Users\Administrator\Desktop\ReadDPR_Winform\ReadDPR_Winform\obj\Debug\ReadDPR_Winform.pdb
+C:\代码\GitHub\guanli\ReadDPR_Winform\ReadDPR_Winform\bin\Debug\ReadDPR_Winform.exe.config
+C:\代码\GitHub\guanli\ReadDPR_Winform\ReadDPR_Winform\obj\Debug\ReadDPR_Winform.exe
+C:\代码\GitHub\guanli\ReadDPR_Winform\ReadDPR_Winform\obj\Debug\ReadDPR_Winform.pdb

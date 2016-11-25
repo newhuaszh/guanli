@@ -71,6 +71,11 @@ namespace ReadDPR_Winform
         }
 
         #region 上方按钮
+        /// <summary>
+        /// 打开数据文件
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnOpen_Click(object sender, EventArgs e)
         {
             OpenFileDialog openDlg = new OpenFileDialog();
@@ -111,7 +116,7 @@ namespace ReadDPR_Winform
                     }
                     catch (Exception ex)
                     {
-
+                        
                     }
                     finally
                     {
