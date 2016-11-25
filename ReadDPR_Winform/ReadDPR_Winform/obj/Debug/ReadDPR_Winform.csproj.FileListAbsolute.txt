@@ -1,0 +1,22 @@
+c:\users\sun zehua\documents\visual studio 2015\Projects\ReadDPR_Winform\ReadDPR_Winform\bin\Debug\ReadDPR_Winform.exe.config
+c:\users\sun zehua\documents\visual studio 2015\Projects\ReadDPR_Winform\ReadDPR_Winform\bin\Debug\ReadDPR_Winform.exe
+c:\users\sun zehua\documents\visual studio 2015\Projects\ReadDPR_Winform\ReadDPR_Winform\bin\Debug\ReadDPR_Winform.pdb
+c:\users\sun zehua\documents\visual studio 2015\Projects\ReadDPR_Winform\ReadDPR_Winform\obj\Debug\ReadDPR_Winform.csprojResolveAssemblyReference.cache
+c:\users\sun zehua\documents\visual studio 2015\Projects\ReadDPR_Winform\ReadDPR_Winform\obj\Debug\ReadDPR_Winform.Properties.Resources.resources
+c:\users\sun zehua\documents\visual studio 2015\Projects\ReadDPR_Winform\ReadDPR_Winform\obj\Debug\ReadDPR_Winform.csproj.GenerateResource.Cache
+c:\users\sun zehua\documents\visual studio 2015\Projects\ReadDPR_Winform\ReadDPR_Winform\obj\Debug\ReadDPR_Winform.exe
+c:\users\sun zehua\documents\visual studio 2015\Projects\ReadDPR_Winform\ReadDPR_Winform\obj\Debug\ReadDPR_Winform.pdb
+c:\users\sun zehua\documents\visual studio 2015\Projects\ReadDPR_Winform\ReadDPR_Winform\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\sun zehua\documents\visual studio 2015\Projects\ReadDPR_Winform\ReadDPR_Winform\obj\Debug\ReadDPR_Winform.frmReadDPR.resources
+c:\users\sun zehua\documents\visual studio 2015\Projects\ReadDPR_Winform\ReadDPR_Winform\obj\Debug\ReadDPR_Winform.frmSingleBmp.resources
+C:\Users\Administrator\Desktop\ReadDPR_Winform\ReadDPR_Winform\bin\Debug\ReadDPR_Winform.exe.config
+C:\Users\Administrator\Desktop\ReadDPR_Winform\ReadDPR_Winform\bin\Debug\ReadDPR_Winform.exe
+C:\Users\Administrator\Desktop\ReadDPR_Winform\ReadDPR_Winform\bin\Debug\ReadDPR_Winform.pdb
+C:\Users\Administrator\Desktop\ReadDPR_Winform\ReadDPR_Winform\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\ReadDPR_Winform\ReadDPR_Winform\obj\Debug\ReadDPR_Winform.frmProgress.resources
+C:\Users\Administrator\Desktop\ReadDPR_Winform\ReadDPR_Winform\obj\Debug\ReadDPR_Winform.frmReadDPR.resources
+C:\Users\Administrator\Desktop\ReadDPR_Winform\ReadDPR_Winform\obj\Debug\ReadDPR_Winform.frmSingleBmp.resources
+C:\Users\Administrator\Desktop\ReadDPR_Winform\ReadDPR_Winform\obj\Debug\ReadDPR_Winform.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ReadDPR_Winform\ReadDPR_Winform\obj\Debug\ReadDPR_Winform.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ReadDPR_Winform\ReadDPR_Winform\obj\Debug\ReadDPR_Winform.exe
+C:\Users\Administrator\Desktop\ReadDPR_Winform\ReadDPR_Winform\obj\Debug\ReadDPR_Winform.pdb
